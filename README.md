@@ -3,4 +3,4 @@
 
 # Article on Medium
 
-#https://medium.com/@arshren/reinforcement-learning-creating-a-custom-environment-aeeed661d641
+https://medium.com/@arshren/reinforcement-learning-creating-a-custom-environment-aeeed661d641
