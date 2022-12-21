@@ -1,4 +1,4 @@
-# Reinforcement_Learning
+# Reinforcement Learning
 Creating Cutom Environment using OpenAi Gym
 
 # Article on Medium
